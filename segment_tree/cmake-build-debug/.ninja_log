@@ -1,0 +1,4 @@
+# ninja log v5
+1	107	6971397874444805	build.ninja	2c50b37355213d8c
+842	919	6971395000193049	segment_tree.exe	3a3bc56019176e49
+2	842	6971394999452794	CMakeFiles/segment_tree.dir/main.cpp.obj	281516e5d5ed297b

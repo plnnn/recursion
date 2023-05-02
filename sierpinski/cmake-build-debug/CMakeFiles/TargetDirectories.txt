@@ -1,0 +1,3 @@
+C:/Users/Pavlo/CLionProjects/2nd_semester/task4/sierpinski/cmake-build-debug/CMakeFiles/C_Turtle_master.dir
+C:/Users/Pavlo/CLionProjects/2nd_semester/task4/sierpinski/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pavlo/CLionProjects/2nd_semester/task4/sierpinski/cmake-build-debug/CMakeFiles/rebuild_cache.dir
